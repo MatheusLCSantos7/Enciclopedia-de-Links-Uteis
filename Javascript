@@ -8,3 +8,5 @@ https://unicode.org/emoji/charts/full-emoji-list.html (emojis code)
 
 fazer exercícios de JAVASCRIPT = https://www.freecodecamp.org/
 
+
+http://mobileinputtypes.com/
