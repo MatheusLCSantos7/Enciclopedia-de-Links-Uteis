@@ -19,3 +19,7 @@ tudo
 
 https://github.com/MatheusLCSantos7/GitTutorial
 TUTORIAL DE GIT
+
+
+https://github.com/Ileriayo/markdown-badges#markdown-badges
+Tamplates para portifolios
