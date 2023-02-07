@@ -8,7 +8,9 @@ https://storyset.com/ Para artes de css
 TUTORIAL DE GIT
 
 Tamplates para portifolios
-
+                                   VGA animados
+https://fontawesome.com/icons/location-dot?s=solid&f=sharp
+                                   VGA animados
 https://github.com/Ileriayo/markdown-badges#markdown-badges
                                   exemplos README
 https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/edit/master/README.md
