@@ -20,5 +20,9 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme#dynamic-realtime
 https://fontawesome.com/icons/location-dot?s=solid&f=sharp 
 https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAiAxP2eBhBiEiwA5puhNcPBYbauQhOyMrWeXUD8YCFzZncf0gjotaRq5Ol41giZTwtM-c-AVRoCGOIQAvD_BwE
 
+
+https://dev.to/supritha/how-to-have-an-awesome-github-profile-2jge TUDO////////
+
+
 https://icongr.am/devicon icons
 Tamplates para portifolios
