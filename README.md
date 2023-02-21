@@ -23,6 +23,10 @@ https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAiAxP2eBhBiEiwA5
 
 https://dev.to/supritha/how-to-have-an-awesome-github-profile-2jge TUDO////////
 
+//////////////LINKS PARA LOGO DE PROJETOS ??????????????
+https://www.vectorlogo.zone/
+https://logosear.ch/search.html?q=JavaScript
+//////////////LINKS PARA LOGO DE PROJETOS ??????????????
 
 https://icongr.am/devicon icons
 Tamplates para portifolios
