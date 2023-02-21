@@ -26,6 +26,8 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-2jge TUDO////////
 //////////////LINKS PARA LOGO DE PROJETOS ??????????????
 https://www.vectorlogo.zone/
 https://logosear.ch/search.html?q=JavaScript
+
+vai abrir o editor no proprio vectorlogo e salvar em svg dps fazer upload 
 //////////////LINKS PARA LOGO DE PROJETOS ??????????????
 
 https://icongr.am/devicon icons
