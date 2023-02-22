@@ -5,6 +5,12 @@ https://www.calculadora-online.xyz/ proximo
 https://storyset.com/ Para artes de css
 
 
+///////////////////////CSS/////////////////////////////////////////////
+https://freefrontend.com/css-hover-effects/
+///////////////////////CSS/////////////////////////////////////////////
+
+
+
 TUTORIAL DE GIT
 
 Tamplates para portifolios
