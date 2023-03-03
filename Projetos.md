@@ -8,7 +8,20 @@
 >https://www.youtube.com/watch?v=NljIHlZRTTE <br>
 >Onde tirei o ConectSocialTec 🟢
 
+<HR>
+  
+>https://youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR <br>
+>Projetos tops e quando tiver react 
+  
+<HR>
+
+  
 ## Projetos completos Youtube
+  
+>https://www.youtube.com/watch?v=BOF79TAIkYQ 🟡 <br>
+>Fazer agora
+  
+<hr>
   
 >https://www.youtube.com/watch?v=oy8dSsK57Ps 🔴<br>
 >https://youtu.be/Tkp3FDgOueM 🔴<br>
@@ -16,6 +29,7 @@
 >https://www.youtube.com/watch?v=YfmYUtGOaTg 🔴<br>
 >https://youtu.be/TVFu4-Kd4oM 🔴<br>
 >https://youtu.be/kmM6mqvnxcs 🔴<br> 
+  
   
 >Scroll revie (subir e descer imagens qnd abre a tela) / Belas cores /Letras indo e voltando distintas / RESPONSIVO <br>
 
