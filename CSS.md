@@ -10,6 +10,8 @@
 
 >https://storyset.com/Para artes de css
 
+>https://www.youtube.com/watch?v=2ak37WrbSDg Intro do site
+
 >https://freefrontend.com/css-hover-effects/ efeitos HOVER
 
 >https://github.com/mattboldt/typed.js/ API de Palavras Animadas
