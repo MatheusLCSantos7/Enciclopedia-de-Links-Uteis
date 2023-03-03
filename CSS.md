@@ -4,7 +4,7 @@
 
 >https://www.vectorlogo.zone/ LOGOS
 
->https://css-tricks.com/snippets/css/a-guide-to-flexbox/ POSICIONAMENTO
+>https://unicode.org/emoji/charts/full-emoji-list.html  EMOJIS
 
 >https://fontawesome.com/ ÍCONES PERFEITOS 
 
@@ -15,6 +15,10 @@
 >https://github.com/mattboldt/typed.js/ API de Palavras Animadas
 
 >https://fontawesome.com/icons/location-dot?s=solid&f=sharp VGA animados
+
+>https://css-tricks.com/snippets/css/a-guide-to-flexbox/ POSICIONAMENTO
+
+
 
 # MELHOR GitHub Profile README
 >https://dev.to/supritha/how-to-have-an-awesome-github-profile-2jge
